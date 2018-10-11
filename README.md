@@ -1,4 +1,4 @@
-# ToDO List
+# ToDo List
 
 ```
 npm install
